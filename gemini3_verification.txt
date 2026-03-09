@@ -1,0 +1,2 @@
+
+Gemini 3 Flash Preview model is fully operational.
