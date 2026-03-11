@@ -1,0 +1,1 @@
+('acffa394-0781-4ce9-96b7-e76b3606292e', 'Mission Task', 'Task extracted for mission', 'pending')
